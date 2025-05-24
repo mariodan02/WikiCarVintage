@@ -129,9 +129,3 @@ Questa sezione consente agli utenti di:
 - PHP per la gestione delle pagine dinamiche
 - PostgreSQL per la gestione del database
 - JavaScript per le funzionalità interattive
-
----
-
-## TEAM DI SVILUPPO
-
-Il progetto è stato realizzato nell'ambito del corso universitario da un team di studenti appassionati di sviluppo web e auto d'epoca.
